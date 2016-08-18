@@ -1,0 +1,15 @@
+{
+  "name": "tipi.plugin.tarzan",
+  "homepage": "https://github.com/toolbarthomas/tipi.plugin.tarzan",
+  "authors": [
+    "Thomas van der Velde <contact@toolbarthomas.net>"
+  ],
+  "description": "Tipi plugin for anchor scroll to animation with callback option ",
+  "keywords": [
+    "toolbarthomas",
+    "modular",
+    "tarzan",
+  ],
+  "license": "MIT",
+  "main": "tipi.plugin.tarzan.js"
+}
