@@ -8,7 +8,7 @@
   "keywords": [
     "toolbarthomas",
     "modular",
-    "tarzan",
+    "tarzan"
   ],
   "license": "MIT",
   "main": "tipi.plugin.tarzan.js"
