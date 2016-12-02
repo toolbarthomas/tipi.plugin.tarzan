@@ -107,7 +107,7 @@ function initTarzan(data)
 	//If our destination fits within the viewport then we can calculate the coordinates for centering it withing the viewport
 	if(destination.outerHeight() < $(window).height())
 	{
-		scrollTop = destination.offset().top - ($(window).height() / 100 * data.options.from_center_divide) + (destination.outerHeight() / 100 * from_height_divide);
+		scrollTop = destination.offset().top - ($(window).height() / 100 * data.options.from_center_divide) + (destination.outerHeight() / 100 * data.options.from_height_divide);
 	}
 
 	//Set the manual offset to zero
